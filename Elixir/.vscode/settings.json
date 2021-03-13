@@ -1,0 +1,5 @@
+{
+    "elixirLS.dialyzerEnabled": false,
+    "elixirLS.suggestSpecs": false,
+    "elixir.credo.executePath": "/Users/andersongregoriodasilva/.mix/archives/credo-1.6.0-dev"
+}
